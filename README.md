@@ -3,8 +3,7 @@
 <!-- <h1 align="center">Hello 👋, I'm Jayasurya</h1> -->
 <h3 align="center">An Exponential learner and worker</h3>
 
-<img align="right" alt="Coding" width="40%" style="border-radius:30%;margin-top:30px" src="img2
-.png"/>
+<img align="right" alt="Coding" width="40%" style="border-radius:30%;margin-top:30px" src="img2.png"/>
 
 ![](https://komarev.com/ghpvc/?username=jayasurya-karthikeyan&color=blueviolet&style=plastic)
 
