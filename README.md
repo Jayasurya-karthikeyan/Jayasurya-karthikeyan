@@ -1,23 +1,22 @@
-[![MasterHead](Git-banner.gif)](https://rishavchanda.io)
-
+<img align="center" alt="Coding" width="100%" style="border-radius:1%;" src="Git-banner.gif"/>
 <!-- <h1 align="center">Hello 👋, I'm Jayasurya</h1> -->
-<h3 align="center">An Exponential learner and worker</h3>
+<h3 align="center">Reliable developer and designer focused on new techs🤖</h3>
 
-<img align="right" alt="Coding" width="40%" style="border-radius:30%;margin-top:30px" src="img2.png"/>
+<img align="right" alt="Coding" width="40%" style="border-radius:30%;margin-top:30px" src="img4.gif"/>
 
 ![](https://komarev.com/ghpvc/?username=jayasurya-karthikeyan&color=blueviolet&style=plastic)
 
-- 🔭 I’m currently working on **Automated Paper Evaluation**
+- 👷🏾 I’m currently working on **Automated Paper Evaluation**
 
-- 🌱 I’m currently learning **AI / ML**
+- 👾 I’m currently learning **AI / ML**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 🦾 I’m looking to collaborate on **Machine Learning projects**
 
-- 💬 Ask me about **MERN and React Native**
+- 🥷🏽 Ask me about **MERN and React Native**
 
-- 📫 How to reach me **jayasurya.23it@licet.ac.in**
+- 💫 How to reach me **jayasurya.23it@licet.ac.in**
 
-- ⚡ Fun fact **FuN vIbEs**
+- 👻 Fun fact **FuN vIbEs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
